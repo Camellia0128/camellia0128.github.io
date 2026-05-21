@@ -1,0 +1,7 @@
+{
+  "project": "vault-platform",
+  "frontend": "https://vault-platform-nine.vercel.app",
+  "admin": "https://vault-platform-nine.vercel.app/admin",
+  "vercelProjectName": "vault-platform",
+  "status": "demo-mode-until-supabase-env-is-connected"
+}
